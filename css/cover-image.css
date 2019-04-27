@@ -1,0 +1,8 @@
+.cover-image{
+	position: relative;
+	overflow: hidden;
+}
+.cover-image > img{
+	position: absolute;
+	max-width: unset;
+}

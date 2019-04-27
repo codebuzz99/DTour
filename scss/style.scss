@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700');
+@import url('https://fonts.googleapis.com/css?family=Dosis:200,300,400,500,600,700,800');
+
+$heading-font: 'Dosis', sans-serif;
+$global-font: 'Ubuntu', sans-serif;
+
+
+$thin: 200;
+$normal: 400;
+$bold: 600;
+$havy: 800;
+
+
+$black:#000000;
+$white: #ffffff; 
+$dark: #212121;
+$light: #616161;
+$blue: #4484CE;
+$red: #E60118;
+$green: #3CC37E;
+$darkblue: #062F4F;
+$light-black: #161220;
+
+
+
+@import 'global.scss';
+@import 'banner.scss';
+
